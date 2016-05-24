@@ -6,6 +6,7 @@ import java.util.Scanner;
 /**
  * Created by davidhanimann on 23.05.16.
  * De Uarim isch en stinker
+ * blödian
  */
 public class FileReader {
 
